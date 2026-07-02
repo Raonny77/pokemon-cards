@@ -58,14 +58,9 @@ npm install
 
 ### 2. Criar um banco no NeonDB
 
-1. Crie uma conta gratuita em https://neon.tech
-2. Crie um novo projeto/banco de dados
-3. Copie a "Connection String" (URL de conexão) fornecida
-
 ### 3. Configurar as variáveis de ambiente
 
-Crie um arquivo `.env.local` na raiz do projeto (baseado no `.env.example`):
-
+Crie um arquivo `.env.local`
 ```
 DATABASE_URL="sua-connection-string-do-neondb"
 JWT_SECRET="uma-string-secreta-qualquer"
