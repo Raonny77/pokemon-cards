@@ -62,7 +62,7 @@ npm install
 
 Crie um arquivo `.env.local`
 ```
-DATABASE_URL="sua-connection-string-do-neondb"
+DATABASE_URL="conexão string gerada no neon db"
 JWT_SECRET="uma-string-secreta-qualquer"
 ```
 
